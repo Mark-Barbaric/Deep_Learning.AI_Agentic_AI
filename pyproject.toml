@@ -1,0 +1,11 @@
+[project]
+name = "deep-learning-ai-agentic-ai"
+version = "0.1.0"
+description = "Python project for practicing agentic AI with Jupyter notebooks"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.0.0",
+    "ipykernel>=6.29.0",
+    "notebook>=7.0.0",
+]
