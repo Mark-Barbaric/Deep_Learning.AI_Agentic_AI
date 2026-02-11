@@ -8,4 +8,9 @@ dependencies = [
     "jupyter>=1.0.0",
     "ipykernel>=6.29.0",
     "notebook>=7.0.0",
+    "pandas>=3.0.0",
+    "openai>=2.20.0",
+    "matplotlib>=3.10.8",
+    "dotenv>=0.9.9",
+    "anthropic>=0.79.0",
 ]
